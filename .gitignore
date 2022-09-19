@@ -1,0 +1,7 @@
+src-server/Plugins/MyFirstPlugin/obj/
+src-server/Plugins/MyFirstPlugin/bin/
+src-server/Plugins/MyFirstPlugin/.vs/
+src-server/LoadBalancing/LoadBalancing/obj/
+deploy/Plugins/MyFirstPlugin/bin/
+deploy/log/
+deploy/bin_Win64
